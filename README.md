@@ -6,7 +6,7 @@ Software Engineer with a passion for building scalable systems, data-driven plat
 
 📊 Building end-to-end systems that combine ETL pipelines, backend services, geospatial analysis, interactive dashboards, and AI-powered capabilities to transform public data into actionable insights.
 
-💼 Previously worked at **Pai-Pay**, where I developed production-ready web and mobile applications using React, React Native, Next.js, TypeScript, and Node.js.
+💼 Previously worked at **Pai-Pay**, where I developed production-ready web and mobile applications using React, Next.js, Javacript, and Node.js.
 
 ⚙️ Previously participated in NextSilicon's software engineering program, where I worked with C++, Linux, debugging tools, multithreading, and low-level software concepts in software-intensive environments.
 
@@ -16,9 +16,7 @@ Software Engineer with a passion for building scalable systems, data-driven plat
 
 ---
 
-## 🛠 Skills
-
-## 🛠 Skills
+## 🛠Skills
 
 ### 🚀 Programming Languages
 
