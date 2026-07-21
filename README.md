@@ -6,8 +6,7 @@ Software Engineer with a passion for building scalable systems, data-driven plat
 
 📊 Building end-to-end systems that combine ETL pipelines, backend services, geospatial analysis, interactive dashboards, and AI-powered capabilities to transform public data into actionable insights.
 
-💼 Previously worked at **Pai-Pay**, where I developed production-ready web and mobile applications using React, Next.js, Javacript, and Node.js.
-
+💼 Worked at Pai-Pay (2024–2026), where I designed and developed production-ready web and mobile applications using React, Next.js, JavaScript, and Node.js, collaborating on end-to-end features and scalable solutions.
 ⚙️ Previously participated in NextSilicon's software engineering program, where I worked with C++, Linux, debugging tools, multithreading, and low-level software concepts in software-intensive environments.
 
 🤖 Passionate about AI and developer productivity, with hands-on experience building applications and workflows using Claude API, Cursor, Claude Code, and GitHub Copilot.
