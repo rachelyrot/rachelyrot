@@ -30,22 +30,6 @@ The platform processes public datasets spanning more than two decades and combin
 
 ---
 
-### 🛡️ File Sanitization Microservice
-
-Built a containerized microservice for validating and sanitizing uploaded files with structured APIs and robust error handling.
-
-**Tech:** C# · .NET · Docker · REST APIs
-
----
-
-### 🤖 AI Meeting Assistant
-
-Developed an AI-powered mobile assistant focused on meeting management and conversational workflows.
-
-**Tech:** React Native · TypeScript · Node.js · Claude API
-
----
-
 ## 🛠 Skills
 
 ### 🚀 Programming Languages
