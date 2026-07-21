@@ -24,7 +24,7 @@ Designed and developed a large-scale analytics platform serving 272 municipaliti
 
 The platform processes public datasets spanning more than two decades and combines ETL pipelines, geospatial analysis, interactive dashboards, and AI-powered insights to support data-driven decision-making.
 
-🌐 Live Demo: https://israel-municipal-analytics.vercel.app/app
+🌐 Live Demo: https://israel-municipal-analytics.vercel.app
 
 **Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · React · TypeScript · Recharts · React-Leaflet · Claude API · Railway
 
